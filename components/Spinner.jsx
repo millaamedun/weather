@@ -6,7 +6,7 @@ const Spinner = () => {
   return (
     <>
     <div className='bg-[#f1f2f3] w-full h-screen flex flex-col justify-center items-center'>
-        <Image className='w-[300px] m-auto block' src={spinner} alt='loading...' />
+        <Image className='w-[100px] m-auto block' src={spinner} alt='loading...' />
     </div>
       
     </>
